@@ -42,8 +42,8 @@ bash <( curl -sL https://raw.githubusercontent.com/lapislazuli-project/masternod
 # Part 5 - Checking Masternode Status
 
 1. After running the command in step 4, go back to your VPS
-2. Enter ```cd``` to get back to your root directory
-3. Enter ```lapislazuli-cli getmasternodestatus```
+2. Enter ```cd /usr/local/bin/lapislazuli-v1.0.0-x86_64-linux```
+3. Enter ```./lapislazuli-cli getmasternodestatus```
 4. This will tell you the status of your masternode, any questions, Join discord for help: https://discord.gg/xHGpGC8RVy
 
 # Recommended Tools
